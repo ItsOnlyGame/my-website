@@ -48,7 +48,7 @@ function RouteComponent() {
             default: 'bounce',
           },
           random: false,
-          speed: 0,
+          speed: 1,
           straight: false,
         },
         links: {
